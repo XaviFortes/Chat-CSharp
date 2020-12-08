@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome
+Do you want to download the latest version of the chat? Perfect
 
-Bienvenido!
+## Bienvenido!
 Quieres descargar la última versión del chat? Perfecto
 
 ### Version History
